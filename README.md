@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">i'm from 🇧🇷<br><br>begginer dev</p>
+<p align="left">i'm from 🇧🇷\n<br>begginer dev</p>
 
 ###
 
